@@ -1,0 +1,10 @@
+NON-VEGETARIAN PIZZA
+#0: taraneasca
+Price: 169
+#1: carnivora
+Price: 212
+#2: taraneasca
+Price: 183.365
+#3: carnivora
+Price: 230.02
+Total: 794.385

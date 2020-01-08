@@ -1,0 +1,17 @@
+#0: vegetariana
+Price: 77
+#1: vegetariana
+Price: 77
+#2: taraneasca
+Price: 169
+#3: carnivora
+Price: 212
+#4: vegetariana
+Price: 83.545
+#5: vegetariana
+Price: 83.545
+#6: taraneasca
+Price: 183.365
+#7: carnivora
+Price: 230.02
+Total: 1115.47

@@ -1,0 +1,33 @@
+vegetariana 4
+salata 2 4
+rosii 3 10
+masline 3 4
+sos_rosii 3 5
+
+carnivora 6
+sos_rosii 3 5
+salam 3 18
+carnati 3 17
+sunca 3 20
+masline 3 4
+mozzarela 1 8
+
+hawaiana 5
+ananas 2 15
+sunca 3 20
+masline 3 4
+ton 4 30
+mozzarela 1 8
+
+clasica 4
+sunca 3 20
+masline 3 4
+ciuperci 2 15
+sos_rosii 3 5
+
+taraneasca 5
+salam 3 18
+sunca 3 20
+sos_rosii 3 5
+mozzarela 1 8
+ardei 2 10

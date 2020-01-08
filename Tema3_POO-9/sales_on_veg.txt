@@ -1,0 +1,10 @@
+VEGETARIAN PIZZA
+#0: vegetariana
+Price: 77
+#1: vegetariana
+Price: 77
+#2: vegetariana
+Price: 83.545
+#3: vegetariana
+Price: 83.545
+Total: 321.09
